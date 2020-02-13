@@ -1,0 +1,12 @@
+.container {
+    display: table;
+    width: 80%;
+}
+
+.col {
+    padding-top: 10px;
+    margin: 0 auto;
+    text-align: center;
+    display:table-cell;
+    height: 100px;
+}
